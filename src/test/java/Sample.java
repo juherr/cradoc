@@ -1,6 +1,6 @@
-import fr.loof.cradoc.bracadabra;
-import fr.loof.cradoc.tesSouhaits;
-import fr.loof.cradoc.ttention;
+import org.breizhjug.cradoc.bracadabra;
+import org.breizhjug.cradoc.tesSouhaits;
+import org.breizhjug.cradoc.ttention;
 
 public class Sample
 {
