@@ -12,4 +12,7 @@ import java.lang.annotation.RetentionPolicy;
 public @interface ttention
 {
     String value();
+
+    String reviewer() default "";
+
 }
