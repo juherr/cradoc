@@ -12,4 +12,6 @@ import java.lang.annotation.RetentionPolicy;
 public @interface bracadabra
 {
     String value();
+
+    String reviewer() default "";
 }

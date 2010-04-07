@@ -13,4 +13,7 @@ import java.lang.annotation.RetentionPolicy;
 public @interface tesSouhaits
 {
     String value();
+
+    String reviewer() default "";
+
 }
